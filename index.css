@@ -1,0 +1,94 @@
+.intro{
+    background-image: url("intro.jpg");
+    background-size: cover;
+    background-position: 20px;
+    height: 300px;
+    line-height: 30px;
+    text-align: center;
+    padding-top: 80px;    
+    color:aliceblue;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border: 2px solid aliceblue;
+    
+}
+span{
+   
+    font-weight: lighter;
+   
+}
+.card{
+    width:400px;
+    height: 200px;
+    display: flex;
+    justify-content:center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #A2D3C2;
+    color: black;
+    justify-content: column;
+    padding: 10px;
+    margin-top: 20px;
+    box-shadow: 10px 5px 5px #0552A9;
+    text-align:center;
+}
+.pics{
+    background-color: #D6DBDF;
+    display: flex;
+    flex-direction: row;
+    margin-top: 0px;
+    padding-top: 20px;
+    justify-content: space-around;
+    padding-bottom: 20px;
+    padding-left: 100px;
+  
+}
+.top{
+margin-bottom: 0px;
+display: block;
+text-align: center;
+font-family: bold;
+font-size: 30px;
+background-color: #A2D3C2;
+margin-top: 2px;
+
+
+}
+body{
+    width: 1335px;
+    font-weight: bold;
+}
+.icon{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    justify-content: space-around;
+    display: flex;
+    flex-direction:row;
+    margin-right: 300px;
+   
+}
+.marj{
+padding-left:10px;
+padding-right:10px;
+padding-bottom: 10px;
+
+}
+h3{
+    font-size: 30px;
+    margin-top: 0px;
+}
+.cent{
+    
+        vertical-align: top;
+        display: inline-block;
+        text-align: center;
+        width: 120px;
+        
+
+}
+.text{
+    font-size: 20px;
+    display: block;
+    
+}
